@@ -1,0 +1,3 @@
+<> </> - react Fragment
+<Grid> </Grid> -- to form the grids, xs to determine the size on devices
+<Typography> - from materialui - single text element but you can add title,subtitle, change variants
